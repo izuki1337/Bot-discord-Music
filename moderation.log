@@ -1,0 +1,26 @@
+2025-04-25 17:58:48,652:INFO:logging in using static token
+2025-04-25 17:58:50,044:INFO:Shard ID None has connected to Gateway (Session ID: 3cbf539bbd7ff46a39c4707d26bea25a).
+2025-04-25 17:59:09,550:ERROR:Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "play" is not found
+2025-04-25 18:31:19,484:INFO:logging in using static token
+2025-04-25 18:31:20,942:INFO:Shard ID None has connected to Gateway (Session ID: 1d89540ec4f9ba6669c7700c1b528610).
+2025-04-25 18:35:39,833:ERROR:Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "stop" is not found
+2025-04-25 18:42:02,683:ERROR:Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "stop" is not found
+2025-04-25 19:00:54,430:INFO:logging in using static token
+2025-04-25 19:00:56,154:INFO:Shard ID None has connected to Gateway (Session ID: 4fe2fe6dd65a8576ca16b4e336a8b0b2).
+2025-04-25 19:00:59,874:ERROR:Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "help" is not found
+2025-04-25 19:01:05,397:ERROR:Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "mhelp" is not found
+2025-04-25 19:02:13,416:INFO:logging in using static token
+2025-04-25 19:02:16,348:INFO:Shard ID None has connected to Gateway (Session ID: 0b6b5f7209eba124b4a9cd81b03abb80).
+2025-04-25 19:03:28,270:ERROR:Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "mhelp" is not found
+2025-04-25 19:16:11,477:ERROR:Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "?" is not found
+2025-04-25 19:52:26,501:INFO:logging in using static token
+2025-04-25 19:52:28,220:INFO:Shard ID None has connected to Gateway (Session ID: fa885604df62d4253ac29c8c99dba758).
+2025-04-25 19:55:04,010:ERROR:Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "ping" is not found
